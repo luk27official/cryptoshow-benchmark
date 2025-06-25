@@ -1,3 +1,3 @@
-# CryptoShow benchmark
+# CryptoShow benchmarks
 
-Benchmarks for CryptoShow
+Benchmarks for the [CryptoShow](https://github.com/luk27official/cryptoshow) project.
