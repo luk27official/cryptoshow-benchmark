@@ -1,5 +1,10 @@
 # python 3.12
 scikit-learn
 numpy
-biotite
 ipykernel
+requests
+transformers==4.48.1
+torch==2.6.0
+biopython
+jupyter
+seaborn
